@@ -12,6 +12,7 @@ namespace gitTest
         {
             Console.WriteLine("Test!");
             Console.WriteLine("Nu skriver jag i en branch. Kanske");
+            Console.WriteLine("Test 2");
         }
     }
 }
