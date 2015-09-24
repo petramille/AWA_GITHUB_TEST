@@ -10,6 +10,8 @@ namespace gitTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test!");
+            Console.WriteLine("Nu skriver jag i en branch. Kanske");
         }
     }
 }
